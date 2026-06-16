@@ -1,1 +1,23 @@
-
+[
+  {
+    "id": 1,
+    "grupo": "GRUPO l",
+    "rivales": "Francia vs Senegal",
+    "hora": "16:00 HS",
+    "url": "https://vixxox.cdx-08191.space/1781641852/ae0c70734883416e86ca433deac4a091/kIALOCsIMprZBqoJgK_jXn6sWZa_PpK4XAoRfrlqP1c/dsports-ar.m3u8"
+  },
+  {
+    "id": 2,
+    "grupo": "GRUPO A",
+    "rivales": "Qatar vs Ecuador",
+    "hora": "18:00 HS",
+    "url": "https://ejemplo.com/live/canal2.m3u8"
+  },
+  {
+    "id": 3,
+    "grupo": "GRUPO B",
+    "rivales": "Inglaterra vs Irán",
+    "hora": "12:00 HS",
+    "url": "https://ejemplo.com/live/canal3.m3u8"
+  }
+]
