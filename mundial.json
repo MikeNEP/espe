@@ -9,15 +9,15 @@
   {
     "id": 2,
     "grupo": "GRUPO A",
-    "rivales": "Qatar vs Ecuador",
+    "rivales": "Colombia Opcion 1",
     "hora": "18:00 HS",
-    "url": "https://ejemplo.com/live/canal2.m3u8"
+    "url": "https://hux-0vv-useast.vinxvodufon.uk/1781757191/196cbcf37b5f484cb2e3e2bc5face21b/pOJKzWCCJEjE0RVdZeJUxwAMQ7X9zo1Eas39-Y0SdX8/fox-sports-1.m3u8"
   },
   {
     "id": 3,
     "grupo": "GRUPO B",
-    "rivales": "Inglaterra vs Irán",
+    "rivales": "Colombia Opcion 2",
     "hora": "12:00 HS",
-    "url": "https://ejemplo.com/live/canal3.m3u8"
+    "url": "https://hux-0vv-useast.vinxvodufon.uk/1781757397/fe4bf8ef992946e080c3d2647c81d530/3J2xXJ3D3gkE5MTvSGJBclCigUsIDsSa9b8iwb4wGyg/telemundo-usa.m3u8"
   }
 ]
