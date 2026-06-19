@@ -11,33 +11,33 @@
     "grupo": "Mundial",
     "rivales": "Escocia vs Marruecos",
     "hora": "19 hs",
-    "url": "https://am91cm5leq.fubo18.com/tycsports/mono.m3u8?token=01e8705e1410ab5f1c40526e7ec8f3a120bf9eba-37-1781815651-1781797651"
+    "url": "https://frika.vivolatamz.org/dsports/tracks-v1a1/mono.m3u8?ip=190.48.148.232&token=a62119993f9ca592b9df05a15154ce5f141ee8aa-ba-1781929596-1781875596"
   },
   {
     "id": 3,
     "grupo": "Mundial",
     "rivales": "Brasil vs Haití",
     "hora": "21:30 hs",
-    "url": "https://videopro.juanjuistream.uk:1981/tve/index.m3u8"
+    "url": "https://frika.vivolatamz.org/dsports/tracks-v1a1/mono.m3u8?ip=190.48.148.232&token=a62119993f9ca592b9df05a15154ce5f141ee8aa-ba-1781929596-1781875596"
   },
   {
     "id": 4,
     "grupo": "Opciones 1080/4K",
-    "rivales": "Partido actual",
+    "rivales": "Opciones del Partido actual",
     "hora": "",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
     "id": 5,
     "grupo": "Opciones 1080/4K",
-    "rivales": "Partido actual",
+    "rivales": "Opciones del Partido actual",
     "hora": "",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
     "id": 6,
     "grupo": "Opciones 1080/4K",
-    "rivales": "Partido actual",
+    "rivales": "Opciones del Partido actual",
     "hora": "",
     "url": "https://udqni.vivolatamz.org/tycsports/index.m3u8?token=19273ffc4588f4435e2c41f71bf90039aaf3464b-61-1781830545-1781776545&ip=190.48.150.188"
   }
