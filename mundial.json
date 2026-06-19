@@ -8,93 +8,37 @@
   },
   {
     "id": 2,
-    "grupo": "GRUPO B",
-    "rivales": "Suiza vs Bosnia",
-    "hora": "16:00 HS",
-    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-  },
-  {
-    "id": 3,
-    "grupo": "GRUPO B",
-    "rivales": "Canada vs Catar",
-    "hora": "19:00 HS",
-    "url": "https://hux-0vv-useast.vinxvodufon.uk/1781757397/fe4bf8ef992946e080c3d2647c81d530/3J2xXJ3D3gkE5MTvSGJBclCigUsIDsSa9b8iwb4wGyg/telemundo-usa.m3u8"
-  },
-  {
-    "id": 4,
-    "grupo": "GRUPO A",
-    "rivales": "México vs Corea del sur",
-    "hora": "22:00 HS",
-    "url": "https://qzv4jmsc.fubo18.com/dsports/mono.m3u8?token=38a15cc413f78e8f227b3317c7b43e21a8ee7995-b2-1781811286-1781793286"
-  },
-  {
-    "id": 5,
-    "grupo": "Opciones 1080/4K",
-    "rivales": "Chequia vs Sudáfrica",
-    "hora": "1080 TYC Sports",
+    "grupo": "Mundial",
+    "rivales": "Escocia vs Marruecos",
+    "hora": "19 hs",
     "url": "https://am91cm5leq.fubo18.com/tycsports/mono.m3u8?token=01e8705e1410ab5f1c40526e7ec8f3a120bf9eba-37-1781815651-1781797651"
   },
   {
-    "id": 6,
-    "grupo": "Opciones 1080/4K",
-    "rivales": "Chequia vs Sudáfrica",
-    "hora": "DSports",
+    "id": 3,
+    "grupo": "Mundial",
+    "rivales": "Brasil vs Haití",
+    "hora": "21:30 hs",
     "url": "https://videopro.juanjuistream.uk:1981/tve/index.m3u8"
   },
   {
-    "id": 7,
+    "id": 4,
     "grupo": "Opciones 1080/4K",
     "rivales": "Chequia vs Sudáfrica",
     "hora": "20:00 HS",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
-    "id": 8,
+    "id": 5,
     "grupo": "Opciones 1080/4K",
     "rivales": "Chequia vs Sudáfrica",
     "hora": "12:00 HS",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
-    "id": 9,
-    "grupo": "Deportes 24/7",
-    "rivales": "Tyc Sports",
+    "id": 6,
+    "grupo": "Opciones 1080/4K",
+    "rivales": "Estados Unidos vs Australia",
     "hora": "720P",
     "url": "https://udqni.vivolatamz.org/tycsports/index.m3u8?token=19273ffc4588f4435e2c41f71bf90039aaf3464b-61-1781830545-1781776545&ip=190.48.150.188"
-  },
-  {
-    "id": 10,
-    "grupo": "Deportes 24/7",
-    "rivales": "Dsports",
-    "hora": "720P",
-    "url": "https://qzv4jmsc.fubo18.com/dsports/mono.m3u8?token=38a15cc413f78e8f227b3317c7b43e21a8ee7995-b2-1781811286-1781793286"
-  },
-  {
-    "id": 11,
-    "grupo": "Deportes 24/7",
-    "rivales": "TNT Sports",
-    "hora": "720P",
-    "url": "https://y2fzdgxl.fubo18.com/tntsports/mono.m3u8?token=585399a4a384672459061e99661fa2cea5305e15-1c-1781811614-1781793614"
-  },
-  {
-    "id": 12,
-    "grupo": "Deportes 24/7",
-    "rivales": "ESPN Premium",
-    "hora": "720P",
-    "url": "https://udqni.vivolatamz.org/tycsports/index.m3u8?token=19273ffc4588f4435e2c41f71bf90039aaf3464b-61-1781830545-1781776545&ip=190.48.150.188"
-  },
-  {
-    "id": 13,
-    "grupo": "Pronto!",
-    "rivales": "Pronto!",
-    "hora": "24/7",
-    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-  },
-  {
-    "id": 14,
-    "grupo": "Pronto!",
-    "rivales": "Pronto!",
-    "hora": "24/7",
-    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   }
 ]
