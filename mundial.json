@@ -23,22 +23,22 @@
   {
     "id": 4,
     "grupo": "Opciones 1080/4K",
-    "rivales": "Chequia vs Sudáfrica",
-    "hora": "20:00 HS",
+    "rivales": "Partido actual",
+    "hora": "",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
     "id": 5,
     "grupo": "Opciones 1080/4K",
-    "rivales": "Chequia vs Sudáfrica",
-    "hora": "12:00 HS",
+    "rivales": "Partido actual",
+    "hora": "",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
     "id": 6,
     "grupo": "Opciones 1080/4K",
-    "rivales": "Estados Unidos vs Australia",
-    "hora": "720P",
+    "rivales": "Partido actual",
+    "hora": "",
     "url": "https://udqni.vivolatamz.org/tycsports/index.m3u8?token=19273ffc4588f4435e2c41f71bf90039aaf3464b-61-1781830545-1781776545&ip=190.48.150.188"
   }
 ]
