@@ -38,8 +38,8 @@
     "id": 6,
     "grupo": "Opciones 1080/4K",
     "rivales": "Opciones del Partido actual",
-    "hora": "",
-    "url": "https://khala.skylivehd.com/global/foxoneusa/index.m3u8?ip=190.48.148.232&token=37a9a032d61dd2f21f05dd802836bf13fe400037-b5-1782015766-1781961766"
+    "hora": "720p",
+    "url": "https://khala.skylivehd.com/foxoneusa/tracks-v1a1/mono.m3u8?ip=190.48.148.232&token=4450a406115352e376a3973841e1eb039dad5324-e0-1782023279-1781969279"
   },
   {
     "id": 7,
