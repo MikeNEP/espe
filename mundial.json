@@ -22,23 +22,30 @@
   },
   {
     "id": 4,
-    "grupo": "Opciones 1080/4K",
-    "rivales": "Opciones del Partido actual",
-    "hora": "",
-    "url": "https://bmf0aw9u.fubo18.com/dsports/mono.m3u8?token=efd84ef3dc4b5b220e5709ec1971b1d73a8520e4-ef-1781930532-1781912532"
+    "grupo": "Mundial",
+    "rivales": "Tunez vs Japon",
+    "hora": "1:00",
+    "url": "https://st.streamtpday1.xyz/tycsports/tracks-v1a1/mono.m3u8?ip=190.48.148.232&token=95ba5a6fef80404225002104c2caf08b9d5441a0-a5-1782016067-1781962067"
   },
   {
     "id": 5,
     "grupo": "Opciones 1080/4K",
     "rivales": "Opciones del Partido actual",
     "hora": "4K",
-    "url": "https://junkieembeds.pages.dev/1781923800/6b4e4cb3bd8f4009a8fe54cc74c9fbd8/ns4ik9MSDRTVyrWeIzGCyr0dz8qMOnv-R0hpSHA9X3o/fusballtv1uhd-de.m3u8"
+    "url": "https://khala.skylivehd.com/vix1/tracks-v1a1/mono.m3u8?ip=190.48.148.232&token=08cbd2552443a4b7cefc97f9c8d5664be5a1beba-99-1782015983-1781961983"
   },
   {
     "id": 6,
     "grupo": "Opciones 1080/4K",
     "rivales": "Opciones del Partido actual",
     "hora": "",
-    "url": "https://iptv-eldbert.xyz/proxy?url=https%3A%2F%2Fc2nvdxq.fubo18.com%3A443%2Ftycsports%2Fmono.m3u8%3Ftoken%3D48c6e29e3e1683e344e5cdd4d5ebc08dbb6126c9-ca-1781903830-1781885830"
+    "url": "https://khala.skylivehd.com/global/foxoneusa/index.m3u8?ip=190.48.148.232&token=37a9a032d61dd2f21f05dd802836bf13fe400037-b5-1782015766-1781961766"
+  },
+  {
+    "id": 7,
+    "grupo": "Opciones 1080/4K",
+    "rivales": "Opciones del Partido actual",
+    "hora": "1080p Tyc",
+    "url": "https://st.streamtpday1.xyz/tycsports/tracks-v1a1/mono.m3u8?ip=190.48.148.232&token=95ba5a6fef80404225002104c2caf08b9d5441a0-a5-1782016067-1781962067"
   }
 ]
