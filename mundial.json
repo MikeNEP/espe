@@ -31,21 +31,21 @@
     "id": 5,
     "grupo": "Opciones 1080/4K",
     "rivales": "Opciones del Partido actual",
-    "hora": "Opcion 4k sin comentaristas",
-    "url": "https://34366344.ccjdgvtt.pages.dev/1782065730/08a0946e2a8f45559bb3dc80d9ff7abb/5Uxa01cnVoLpi8mrcORPSuxTPZ0Qs5s_GL9pjFM_f-E/fusballtv2uhd-de.m3u8"
+    "hora": "Opcion 4k Telemundo",
+    "url": "https://vizio.kuvuslov.cymru/telemundo-4k/index.m3u8"
   },
   {
     "id": 6,
     "grupo": "Opciones 1080/4K",
     "rivales": "Opciones del Partido actual",
     "hora": "4K Fox Usa",
-    "url": "https://34366344.ccjdgvtt.pages.dev/1782065800/d3885d6696f147f6b4c2c56f811644ef/wh3UIxtInMSNTH4TvUYQNNAW-CDrEh5kiiizDeCznRw/now-4k-hk.m3u8"
+    "url": "https://vizio.kuvuslov.cymru/fs1-4k/index.m3u8"
   },
   {
     "id": 7,
     "grupo": "Opciones 1080/4K",
     "rivales": "Opciones del Partido actual",
-    "hora": "1080 DSPORTS",
-    "url": "https://videopro.juanjuistream.uk:1981/america/tracks-v1a1/mono.m3u8"
+    "hora": "4k",
+    "url": "https://vizio.kuvuslov.cymru/bbc-4k/index.m3u8"
   }
 ]
