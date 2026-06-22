@@ -31,21 +31,21 @@
     "id": 5,
     "grupo": "Opciones 1080/4K",
     "rivales": "Opciones del Partido actual",
-    "hora": "Opcion 1080 Telemundo",
+    "hora": "Opcion 720P",
     "url": "https://vizio.kuvuslov.cymru/telemundo/tracks-v1a1/mono.m3u8"
   },
   {
     "id": 6,
     "grupo": "Opciones 1080/4K",
     "rivales": "Opciones del Partido actual",
-    "hora": "4K Fox Usa",
-    "url": "https://vizio.kuvuslov.cymru/fs1-4k/index.m3u8"
+    "hora": "Opcion 1080P",
+    "url": "https://streamxyz.shop/Telemundo/index.m3u8?expires=1782143906&secret=pMA3rIhFNaXkOX5kQ4BfcTu"
   },
   {
     "id": 7,
     "grupo": "Opciones 1080/4K",
     "rivales": "Opciones del Partido actual",
-    "hora": "720pk",
-    "url": "https://dntaf.vivolatamz.org/dsports/tracks-v1a1/mono.m3u8?ip=190.48.148.232&token=6e0383918a0aedc099296a0237e35ffa6f90f178-56-1782128562-1782074562"
+    "hora": "Opcion 4K",
+    "url": "https://streamxyz.shop/fox4k/index.m3u8?expires=1782143968&secret=pMA3rIhFNaXkOX5kQ4BfcTu"
   }
 ]
