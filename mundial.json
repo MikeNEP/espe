@@ -2,29 +2,29 @@
   {
     "id": 1,
     "grupo": "Mundial",
-    "rivales": "España vs Arabia Saudita",
-    "hora": "13hs",
+    "rivales": "Argentina vs Austria",
+    "hora": "14hs",
     "url": "https://nhciw.vivolatamz.org/telemundousa/tracks-v1a1/mono.m3u8?ip=190.48.148.232&token=230d97622515421058c65e16e8029d4d32a71d42-af-1782105644-1782051644"
   },
   {
     "id": 2,
     "grupo": "Mundial",
-    "rivales": "Belgica vs iran",
-    "hora": "16 hs",
+    "rivales": "Francia vs Iraq",
+    "hora": "18 hs",
     "url": "https://teveplay.net/api/stream/22270c16cc6b53cb/index.m3u8"
   },
   {
     "id": 3,
     "grupo": "Mundial",
-    "rivales": "Uruguay vs Cabo Verde",
-    "hora": "19hs hs",
+    "rivales": "Noruega vs Senegal",
+    "hora": "21hs",
     "url": "https://videopro.juanjuistream.uk:1981/tve/tracks-v1a1/mono.m3u8"
   },
   {
     "id": 4,
     "grupo": "Mundial",
-    "rivales": "Nueva Zelanda vs Egipto",
-    "hora": "22:00",
+    "rivales": "Jordan vs Algeria",
+    "hora": "00:00",
     "url": "https://vfdbdfbd.pages.dev/1782023256/669acd680ed94774975ed0d111ba6ca2/GYmdwkJGdParn1jc3Q0Dff7s4692YWuZRIER3onoaqs/dsports-ar.m3u8"
   },
   {
