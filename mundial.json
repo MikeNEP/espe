@@ -3,14 +3,14 @@
     "id": 1,
     "grupo": "Mundial",
     "rivales": "Sudafrica vs Canada",
-    "hora": "23hs",
+    "hora": "16hs",
     "url": "https://cdn011.viaplus.site/fox-usa.m3u8"
   },
   {
     "id": 2,
     "grupo": "Mundial",
-    "rivales": "Cabo verde vs Arabia",
-    "hora": "19 hs",
+    "rivales": "",
+    "hora": "",
     "url": "https://nhjjhhjhjjhfjj.pages.dev/1782533792/c854c8f3230446adb6f32a9339959b43/R8k_No8hZUT-ftZQPrue3YXEZCER64L9nwv-PFUPOYY/fox-sports-1.m3u8"
   },
   {
@@ -46,6 +46,6 @@
     "grupo": "Opciones 1080/4K",
     "rivales": "Opciones del Partido actual",
     "hora": "Opcion 4K",
-    "url": "https://inproviszon.st/fusball4k-2.m3u8"
+    "url": "https://cdn011.viaplus.site/fox4k-usa.m3u8"
   }
 ]
