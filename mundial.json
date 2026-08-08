@@ -1,51 +1,9 @@
 [
   {
     "id": 1,
-    "grupo": "Mundial",
-    "rivales": "Sudafrica vs Canada",
-    "hora": "16hs",
-    "url": "https://rbtih.vivolatamz.org/dsports/tracks-v1a1/mono.m3u8?ip=190.48.144.218&token=38f22c56f8d6463abb5440c6caf98307b5b3c53d-1f-1782721109-1782667109"
-  },
-  {
-    "id": 2,
-    "grupo": "Mundial",
-    "rivales": "",
+    "grupo": "Pronto...",
+    "rivales": "24/7",
     "hora": "",
-    "url": "https://nhjjhhjhjjhfjj.pages.dev/1782533792/c854c8f3230446adb6f32a9339959b43/R8k_No8hZUT-ftZQPrue3YXEZCER64L9nwv-PFUPOYY/fox-sports-1.m3u8"
-  },
-  {
-    "id": 3,
-    "grupo": "Mundial",
-    "rivales": "",
-    "hora": "",
-    "url": "https://videopro.juanjuistream.uk:1981/tve/tracks-v1a1/mono.m3u8"
-  },
-  {
-    "id": 4,
-    "grupo": "Mundial",
-    "rivales": "",
-    "hora": "",
-    "url": "https://vfdbdfbd.pages.dev/1782023256/669acd680ed94774975ed0d111ba6ca2/GYmdwkJGdParn1jc3Q0Dff7s4692YWuZRIER3onoaqs/dsports-ar.m3u8"
-  },
-  {
-    "id": 5,
-    "grupo": "Opciones 1080/4K",
-    "rivales": "Opciones del Partido actual",
-    "hora": "Opcion 720P",
-    "url": "https://nhjjhhjhjjhfjj.pages.dev/1782510152/13a02d6761614f92a1da25b83ca05dff/4M4sXtUQUUb6btSuvnpFrwAWfxjK8nn-aH_bjxq_fZM/fox-usa.m3u8"
-  },
-  {
-    "id": 6,
-    "grupo": "Opciones 1080/4K",
-    "rivales": "Opciones del Partido actual",
-    "hora": "Opcion 1080P",
-    "url": "https://inproviszon.st/daznmundial.m3u8"
-  },
-  {
-    "id": 7,
-    "grupo": "Opciones 1080/4K",
-    "rivales": "Opciones del Partido actual",
-    "hora": "Opcion 4K",
-    "url": "https://cdn011.viaplus.site/fox4k-usa.m3u8"
+    "url": ""
   }
 ]
