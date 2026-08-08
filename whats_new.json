@@ -4,6 +4,12 @@
     "imageUrl": "https://raw.githubusercontent.com/MikeNEP/espe/main/banners/spiderman.png",
     "title": "¡Nueva película agregada!",
     "message": "Spider-Man: Brand New Day ya está disponible."
+  },
+  {
+    "id": "2026-08-toystory5",
+    "imageUrl": "https://raw.githubusercontent.com/MikeNEP/espe/main/banners/Toy Story 5.png",
+    "title": "esta de Regreso!",
+    "message": "Toy Story 5 ya está disponible."
   }
 ]
 
