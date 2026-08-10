@@ -6,6 +6,12 @@
     "message": "Spider-Man: Brand New Day ya está disponible."
   },
   {
+    "id": "2026-08-peliculas4k",
+    "imageUrl": "https://raw.githubusercontent.com/MikeNEP/espe/main/banners/peliculas4k.png",
+    "title": "¡Nuevas películas agregadas!",
+    "message": "Titanic, Harry Potter y The fifth Element en 4K ya está disponible."
+  },  
+  {
     "id": "2026-08-toystory5",
     "imageUrl": "https://raw.githubusercontent.com/MikeNEP/espe/main/banners/toystory5.png",
     "title": "¡Está de regreso!",
